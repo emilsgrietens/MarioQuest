@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866423405005",
+    "project_id": "marioquest-9ac3e",
+    "storage_bucket": "marioquest-9ac3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866423405005:android:371828e69baf9df3f76c84",
+        "android_client_info": {
+          "package_name": "com.firma.marioquest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866423405005-h3ndkdr89jnibmp60e8mq67tknc4ondf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3wDZXc89G_SRbxozfxt-0RvzuLJYxLyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866423405005-h3ndkdr89jnibmp60e8mq67tknc4ondf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
